@@ -1,5 +1,5 @@
 # JavacCompiler
-A Javac Compiler from OpenJDK.
+A Javac Compiler from OpenJDK for study and research.
 
 From: https://jdk7.java.net/source.html
 
